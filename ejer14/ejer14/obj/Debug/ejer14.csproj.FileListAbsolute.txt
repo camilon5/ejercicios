@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\bin\Debug\ejer14.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer14\ejer14\obj\Debug\ejer14.pdb

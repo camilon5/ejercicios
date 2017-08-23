@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\bin\Debug\coloresrgba.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\bin\Debug\coloresrgba.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\bin\Debug\coloresrgba.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\obj\Debug\coloresrgba.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\obj\Debug\coloresrgba.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\obj\Debug\coloresrgba.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\obj\Debug\coloresrgba.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\coloresrgba\coloresrgba\obj\Debug\coloresrgba.pdb

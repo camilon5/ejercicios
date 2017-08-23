@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\bin\Debug\ejer15.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\bin\Debug\ejer15.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\bin\Debug\ejer15.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\obj\Debug\ejer15.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\obj\Debug\ejer15.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\obj\Debug\ejer15.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\obj\Debug\ejer15.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejer15\ejer15\obj\Debug\ejer15.pdb

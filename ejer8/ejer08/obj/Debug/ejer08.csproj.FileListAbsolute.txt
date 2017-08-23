@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\bin\Debug\ejer08.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\bin\Debug\ejer08.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\bin\Debug\ejer08.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ejer08\ejer08\obj\Debug\ejer08.pdb
